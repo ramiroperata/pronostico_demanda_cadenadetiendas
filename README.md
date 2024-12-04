@@ -36,7 +36,8 @@ El modelo logró capturar patrones de demanda con alta precisión, reduciendo el
 └── 📜 LICENSE # Información sobre la licencia
 ```
 
-## 🚀 Cómo Ejecutar  
+## 🚀 Cómo Ejecutar
+
 1. Clona este repositorio:  
    ```bash
    git clone https://github.com/ramiroperata/pronostico_demanda_cadenadetiendas.git
