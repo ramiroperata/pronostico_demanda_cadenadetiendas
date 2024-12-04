@@ -51,5 +51,5 @@ El modelo logró capturar patrones de demanda con alta precisión, reduciendo el
 ## 🤝 Contribuciones
 ¡Contribuciones y sugerencias son bienvenidas! Por favor, abre un issue o envía un pull request.
 
-📜 Licencia
+## 📜 Licencia
 Este proyecto está bajo la licencia Apache 2.0. Consulta el archivo [LICENSE](LICENSE) para más detalles.
