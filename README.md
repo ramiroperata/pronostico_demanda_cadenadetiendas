@@ -1,15 +1,15 @@
-# 📊 Pronóstico de Ventas con Prophet  
+# 📊 Pronóstico de ventas con Prophet  
 
 Este proyecto utiliza un enfoque basado en series temporales para pronosticar las ventas de una cadena de tiendas. A través de un análisis exhaustivo de los datos, ingeniería de características, e implementación del modelo Prophet, se busca proporcionar predicciones precisas y accionables.  
 
-## 🛠️ Componentes del Proyecto  
+## 🛠️ Componentes del proyecto  
 ### 1. Análisis de Datos Exploratorio (EDA)  
 Se llevó a cabo un EDA para identificar patrones y tendencias clave en los datos, incluyendo:  
 - Identificación de tendencias generales de ventas.  
 - Análisis de estacionalidad semanal, mensual y anual.  
 - Detección y tratamiento de valores atípicos.  
 
-### 2. Ingeniería de Características  
+### 2. Ingeniería de características  
 Para mejorar el rendimiento del modelo, se generaron nuevas características basadas en los datos originales:  
 - Variables de tiempo como el día de la semana, mes y año.  
 - Indicadores de días festivos y promociones.  
@@ -27,7 +27,7 @@ El modelo logró capturar patrones de demanda con alta precisión, reduciendo el
 - Identificación de períodos de alta y baja demanda.  
 - Métricas de evaluación como MAE y RMSE.  
 
-## 📂 Estructura del Repositorio
+## 📂 Estructura del repositorio
 ```
 📁 pronostico_demanda_cadenadetiendas
 ├── 📂 data/ # Datos originales
@@ -36,7 +36,7 @@ El modelo logró capturar patrones de demanda con alta precisión, reduciendo el
 └── 📜 LICENSE # Información sobre la licencia
 ```
 
-## 🚀 Cómo Ejecutar
+## 🚀 Cómo ejecutar
 
 1. Clona este repositorio:  
    ```bash
