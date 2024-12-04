@@ -3,7 +3,7 @@
 Este proyecto utiliza un enfoque basado en series temporales para pronosticar las ventas de una cadena de tiendas. A través de un análisis exhaustivo de los datos, ingeniería de características, e implementación del modelo Prophet, se busca proporcionar predicciones precisas y accionables.  
 
 ## 🛠️ Componentes del proyecto  
-### 1. Análisis de Datos Exploratorio (EDA)  
+### 1. Análisis de datos Exploratorio (EDA)  
 Se llevó a cabo un EDA para identificar patrones y tendencias clave en los datos, incluyendo:  
 - Identificación de tendencias generales de ventas.  
 - Análisis de estacionalidad semanal, mensual y anual.  
