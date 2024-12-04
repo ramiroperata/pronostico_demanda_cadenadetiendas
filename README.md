@@ -48,7 +48,7 @@ El modelo logró capturar patrones de demanda con alta precisión, reduciendo el
 
 3. Ejecuta el notebook en un entorno compatible, como Jupyter Notebook o Google Colab.
 
-##🤝 Contribuciones
+## 🤝 Contribuciones
 ¡Contribuciones y sugerencias son bienvenidas! Por favor, abre un issue o envía un pull request.
 
 📜 Licencia
